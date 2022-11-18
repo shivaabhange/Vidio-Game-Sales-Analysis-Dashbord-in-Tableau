@@ -7,7 +7,9 @@ Linkdin : https://www.linkedin.com/in/kondiba-abhange
 
 
 Summary :
+
 Dataset is Obtained from Kaggle Dataset.
+
 I have created Visualization using Tableau and that answer following question.
 1.	Total and Average Sales Analysis for each Genre.
 2.	Top 10 Games, Top 10 Publisher and Top 10 Platform Classified by Genre.
